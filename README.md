@@ -1,3 +1,8 @@
+# Clever Algorithms
+
+* Inspired by Jason Brownlee's book of Ruby Algorithms. His repo is [here](https://github.com/jbrownlee/CleverAlgorithms).
+![book image](book-image.jpeg)
+
 ## Contents
 |Evolutionary:   |Immunity:   |Neural:   |Physical:   |Probabilistic:   |Stochastic:  |Swarm:  |
 |---|---|---|---|------------------|-------------------------|--------------------|
